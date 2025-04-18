@@ -438,4 +438,6 @@ std::shared_ptr<muse::IApplication> AppFactory::newConsoleApp(const CmdOptions& 
 #endif
 
     return app;
+
+    /*making a simple comment*/
 }
